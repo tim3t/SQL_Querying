@@ -1,0 +1,1 @@
+SQL Querying exercise from Springboard bootcamp
